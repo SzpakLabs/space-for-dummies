@@ -1,0 +1,1 @@
+console.log(`%c Spaceship is ready to launch: ` + `%c >> `, 'color: lightgreen', 'color: cyan', true)
